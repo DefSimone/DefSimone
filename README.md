@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=defsimone" alt="defsimone" /></a> </p>
 
-- 🔭 I’m currently working on **Winston**
+- 🔭 I’m currently working on **minimalReact**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **simonestranieri2518@gmail.com**
 
