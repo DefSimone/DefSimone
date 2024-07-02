@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently not working on any project.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Inactive**
 
 - 📫 How to reach me **simonestranieri2518@gmail.com**
 
